@@ -2,7 +2,7 @@
 
 MongoDB Einfach
 
-Expose a MongoDB collection as a TypeScript class.
+A simple TypeScript MongoDB wrapper for NodeJS/NextJS.
 
 **Version:** 1.0.0
 
