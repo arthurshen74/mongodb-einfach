@@ -1,7 +1,7 @@
 {
   "name": "@arthurshen/mongodb-einfach",
-  "version": "1.0.0",
-  "description": "Simple NodeJS wrapper for MongoDB.",
+  "version": "1.0.1",
+  "description": "Simple TypeScript NodeJS/NextJS wrapper for MongoDB.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -15,15 +15,12 @@
   },
   "devDependencies": {
     "@types/chai": "^4.3.16",
-    "@types/chai-as-promised": "^7.1.8",
     "@types/expect": "^24.3.0",
     "@types/mocha": "^10.0.7",
     "@types/node": "^20.14.13",
     "chai": "^4.5.0",
-    "chai-as-promised": "^8.0.0",
     "dotenv": "^16.4.5",
     "mocha": "^10.7.0",
-    "ts-mocha": "^10.0.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.16.5",
     "typescript": "^5.5.4"
