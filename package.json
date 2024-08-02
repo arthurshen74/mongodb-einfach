@@ -1,6 +1,6 @@
 {
   "name": "@arthurshen/mongodb-einfach",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple TypeScript NodeJS/NextJS wrapper for MongoDB.",
   "main": "index.js",
   "scripts": {
