@@ -12,7 +12,7 @@ import dotenv from 'dotenv';
 dotenv.config(); // Load environment variables from .env into process.env
 import { expect } from 'chai';
 import { MongoClient, WriteConcern, ServerApiVersion, ObjectId, } from 'mongodb';
-import { EinfachMongoDbCollection, } from './index.js'; // Adjust the path as necessary
+import { EinfachMongoDbCollection, } from '../dist/index.js'; // Adjust the path as necessary
 // Number of test documents
 const documentCount = 1000;
 // MongoDB connection options

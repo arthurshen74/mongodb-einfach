@@ -1,4 +1,4 @@
 {
   "extension": ["ts"],
-  "spec": "src/**/*.spec.ts"
+  "spec": "tests/**/*.spec.ts"
 }

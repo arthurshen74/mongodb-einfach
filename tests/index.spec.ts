@@ -12,7 +12,7 @@ import {
 import {
   EinfachMongoDbDocument,
   EinfachMongoDbCollection,
-} from './index.js'; // Adjust the path as necessary
+} from '../dist/index.js'; // Adjust the path as necessary
 
 // Number of test documents
 const documentCount: number = 1000;
